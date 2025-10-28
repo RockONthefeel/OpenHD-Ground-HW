@@ -1,0 +1,5 @@
+UUNITS = MILS
+CON1                 0.00          -234.82        0  m SMD-A1002WR-S-3P    
+CON2                 0.00          -234.82        0    SMD-A1002WR-S-3P    
+U1                   0.00             0.00        0    SKSDPBE010          
+U2                   0.00             0.00        0  m SKSDPBE010          

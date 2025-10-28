@@ -1,0 +1,16 @@
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : wheel_board-1-2.drl for  ... layers TOP and BOTTOM
+;DESIGN: wheel_board.brd
+;T01 Holesize 1. = 11.811000 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 2
+;T02 Holesize 2. = 98.425000 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 2
+%
+G90
+T01
+X0013300Y-0016100
+X0000000Y-0012200
+T02
+X0025590Y-0003937
+X-0025591Y-0003938
+M30
